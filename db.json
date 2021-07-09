@@ -9,12 +9,20 @@
       "available": true
     },
     {
-      "id": 2,
-      "name": "Printer",
-      "price": "3005555",
-      "quantity": 100,
-      "selected": true,
+      "id": 3,
+      "name": "PC",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
       "available": true
+    },
+    {
+      "name": "fdf",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true,
+      "id": 4
     }
   ]
 }
